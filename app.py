@@ -10,7 +10,7 @@ app = dash.Dash(__name__)
 server = app.server
 app.title = "Sydney Solar | Exposure predictor"
 external_css = ["https://fonts.googleapis.com/css?family=Product+Sans:400,400i,700,700i",
-                "https://rawgit.com/JalalElwazze/livebuses/master/app.css"]
+                "https://rawgit.com/JalalElwazze/sydneysolar/master/app.css"]
 
 for css in external_css:
     app.css.append_css({"external_url": css})
