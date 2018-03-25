@@ -2,7 +2,7 @@
 
 This project is a web based dashboard application designed to predict an optimal design speed for a solar racing vehicle. 
 
-Available to view at : https://sydneysolar.herokuapp.com (Runs best on chrome). 
+Available to view at : https://sydneysolar.herokuapp.com (Runs best on chrome, note heroku is a free web server, so if the webpage has been inactive for more than 30 minutes it will take a few minutes to get started again, please be patient). 
 
 Notes on using the machine learning tools:
 - Near the bottom of the page are the machine learning tools for predicting solar exposure 
