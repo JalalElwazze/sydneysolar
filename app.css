@@ -5,13 +5,13 @@ html {
   color: #111111;
 }
 
-body {background-color: #f2f2f2;}
+body {background-color: #f7f7f7;}
 
 .container {
   background-color: white;
   border-radius: 5px;
   font-size: 1.7rem;
-  box-shadow: rgb(240, 240, 240) 3px 3px 3px 0px;
+  box-shadow: rgb(240, 240, 240) 4px 4px 4px 0px;
   border: thin solid rgb(240, 240, 240);
   padding-top: 10px;
   padding-bottom: 10px;
